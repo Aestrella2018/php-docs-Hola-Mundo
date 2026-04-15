@@ -5,4 +5,4 @@ echo "<pre>";
 print_r($_SERVER);
 echo "</pre>";
 
-echo "Hola Mundo!";
+echo "Hola nuevo mundo!";
